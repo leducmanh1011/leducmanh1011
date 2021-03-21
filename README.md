@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/le-duc-manh-16a8b31b1/">
+  <img align="left" alt="Le Duc Manh" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 ![](https://komarev.com/ghpvc/?username=l&label=PROFILE+VIEWS)
 
 Here are some ideas to get you started:
